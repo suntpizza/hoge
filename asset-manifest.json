@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoge/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hoge/static/js/main.c10144e2.chunk.js",
+    "main.js.map": "/hoge/static/js/main.c10144e2.chunk.js.map",
+    "runtime-main.js": "/hoge/static/js/runtime-main.d5211858.js",
+    "runtime-main.js.map": "/hoge/static/js/runtime-main.d5211858.js.map",
+    "static/js/2.b59b360a.chunk.js": "/hoge/static/js/2.b59b360a.chunk.js",
+    "static/js/2.b59b360a.chunk.js.map": "/hoge/static/js/2.b59b360a.chunk.js.map",
+    "static/js/3.fe2b1157.chunk.js": "/hoge/static/js/3.fe2b1157.chunk.js",
+    "static/js/3.fe2b1157.chunk.js.map": "/hoge/static/js/3.fe2b1157.chunk.js.map",
+    "index.html": "/hoge/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hoge/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b59b360a.chunk.js.LICENSE.txt": "/hoge/static/js/2.b59b360a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hoge/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5211858.js",
+    "static/js/2.b59b360a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c10144e2.chunk.js"
+  ]
+}
